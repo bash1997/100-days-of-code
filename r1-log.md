@@ -9,4 +9,4 @@ I didn't keep track of my time today but I know I went over an hour. Currently, 
 
 
 ### R1D2
-finished tribute page. continueing to work on skillcrush project, fcc lessons, and starting python day one. link to tribute page repo:
+finished tribute page. continueing to work on skillcrush project, fcc lessons, and starting python day one. link to tribute page repo: https://github.com/bash1997/fcc-tribute_page
