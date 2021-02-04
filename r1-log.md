@@ -12,3 +12,9 @@ I didn't keep track of my time today but I know I went over an hour. Currently, 
 finished tribute page. continueing to work on skillcrush project, fcc lessons, and starting python day one. link to tribute page repo: https://github.com/bash1997/fcc-tribute_page
 completed Python day 1! liink to Band Name Generator: https://github.com/bash1997/band-name-generator
 worked on a few fcc lessons but diidn't get to skillcrush project
+
+
+###R1D3
+completed day 2 of python lessons and created a python tip calculator. link to the repo: https://github.com/bash1997/tip-calculator-python
+started fcc responsive web design project #2- survey form. I need more work with forms
+i didn't complete as much as I did the first two days, but hopefully tomorrow i will get more done
