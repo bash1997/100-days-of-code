@@ -21,4 +21,8 @@ i didn't complete as much as I did the first two days, but hopefully tomorrow i 
 
 
 ### R1D4
-worked on forms. 90% finished with the sty;e of my survey form page. tomorrow i will be the lastt day i work on it. @11pm i am starting my python lesson and wil upload the Day 3 project around the 12am or 1am
+worked on forms. 90% finished with the style of my survey form page. tomorrow i will be the last day i work on it. @11pm i am starting my python lesson and wil upload the Day 3 project around the 12am or 1am
+
+
+### R1D7
+missed a few days in the journal but i have stayed on track coding everyday for at least an hour. on day 5 and day 6 I worked on the survey page project but i didnt finish that until today. I made a python game on day 6. I am behind on python, so for a few days, I need to be trying to a days until I catch up and not spend full days on the projects.
