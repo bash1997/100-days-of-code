@@ -31,5 +31,9 @@ missed a few days in the journal but i have stayed on track coding everyday for 
 ### R1D8
 finished day 4 of python and working through 5. Created a rock paper scissor game and created a password generator
 
+
 ### R1D9
 finished day 6 and day 7 of python. Created a hangman game and created a function for a robot to go through a random maze
+
+### R1D10
+today was a very slow day. I created a caesar cipher and worked more on functions and creating loops to run my program over when it ends
