@@ -37,3 +37,6 @@ finished day 6 and day 7 of python. Created a hangman game and created a functio
 
 ### R1D10
 today was a very slow day. I created a caesar cipher and worked more on functions and creating loops to run my program over when it ends
+
+### R1D11
+i am catching up in the python projects. today i created a blind bid and by tonigh i will be finished with day 10 and created a python calculator
