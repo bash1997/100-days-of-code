@@ -40,3 +40,6 @@ today was a very slow day. I created a caesar cipher and worked more on function
 
 ### R1D11
 i am catching up in the python projects. today i created a blind bid and by tonigh i will be finished with day 10 and created a python calculator
+
+### R1D12
+taking a break from python and working on web dev. started workig on a quicks page to add to my site to use on social or just as a shortcut to find relevance projects
